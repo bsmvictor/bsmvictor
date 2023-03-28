@@ -1,12 +1,11 @@
-
-## Ola! Seja bem vindo 👋🏼
-
-###
-
+<div align="center">
+<h2> Seja, bem vindo!</h2>
+</div>
+</br>
 <div align="center">
   <a href="https://github.com/bsmvictor">
-  <img height="160rem" width="auto" margin="10px" src="https://github-readme-stats.vercel.app/api?username=bsmvictor&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="160rem"  width="auto" margin="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsmvictor&layout=compact&langs_count=7&theme=nightowl"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=bsmvictor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bsmvictor&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  </br>
