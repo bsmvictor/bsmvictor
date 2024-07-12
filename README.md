@@ -3,9 +3,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsmvictor&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="215" alt="stats graph" padding="10" />
-
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12145924898&count=3&width=350" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bsmvictor&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="215" alt="stats graph" />
   
 </div>
 
@@ -40,6 +38,12 @@
   <a href="339805393880481802" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12145924898&count=3&width=450" />
 </div>
 
 ###
