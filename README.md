@@ -1,9 +1,14 @@
-<h2 align="center">Hi 👋! My name is Victor</h2>
+<div align="center">
+  
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=1FF777&center=true&vCenter=true&random=false&width=435&lines=Hi!+Im+Victor+Boaventura)](https://git.io/typing-svg)
+
+</div>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsmvictor&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="215" alt="stats graph" />
+
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=12145924898&count=3&width=500" />
   
 </div>
 
@@ -38,12 +43,6 @@
   <a href="339805393880481802" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="discord logo"  />
   </a>
-</div>
-
-###
-
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12145924898&count=3&width=450" />
 </div>
 
 ###
