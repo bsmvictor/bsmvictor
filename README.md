@@ -3,15 +3,10 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=bsmvictor&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=bsmvictor&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="215" alt="stats graph" padding="10" />
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/Victor Boaventura Souza Muniz">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Victor%20Boaventura%20Souza%20Muniz&count=5&unique=false" alt="Spotify recently played"  />
-  </a>
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=12145924898&count=3&width=350" />
+  
 </div>
 
 ###
