@@ -7,14 +7,6 @@
 ###
 
 <div align="center">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=12145924898&count=3&width=500" />
-  
-</div>
-
-###
-
-<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
@@ -46,7 +38,8 @@
 </div>
 
 ###
+<div align="center">
 
-<br clear="both">
-
-###
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=12145924898&count=3&width=500" />
+  
+</div>
