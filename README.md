@@ -33,8 +33,3 @@
 </div>
 
 ###
-<div align="center">
-
-<img src="https://spotify-recently-played-readme.vercel.app/api?user=12145924898&count=3&width=500" />
-  
-</div>
